@@ -1,0 +1,5 @@
+.fixed-slide-img{
+  height: 400px;          /* Your desired fixed height */
+  width: 100%;            /* Full width of container */
+  object-fit: cover;      /* Crop to fill without stretching */
+}
